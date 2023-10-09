@@ -2,7 +2,7 @@
 ## JavaScript>React
 
 ### Connect with me:
-![https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg][Twitter](https://twitter.com/canberkj)
+[![https://twitter.com/canberkj][Twitter](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg)
 
 
 

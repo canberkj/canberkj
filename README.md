@@ -2,8 +2,9 @@
 ## JavaScript>React
 
 ### Connect with me:
-[![https://twitter.com/canberkj][Twitter](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg)
-
+<p align="left">
+<a href="https://twitter.com/canberkj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="canberkj" height="30" width="40" /></a>
+</p>
 
 
 <h3 align="left">Languages and Tools:</h3>
